@@ -10,5 +10,5 @@ In the future I am hoping to study at the <a href="https://fit.cvut.cz"><strong>
 
 <h3>Learning</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,html,css,tailwind,js,react&theme=dark)](https://skillicons.dev)
 <!-- **kareltresnak/kareltresnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
